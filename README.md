@@ -4,7 +4,7 @@
 I am dmtr0n(aka dmtr0, aka dementr0n, aka Dementr) 
 
 
-<a href="https://www.example.com" class="button-style">Ссылка-кнопка</a>
+<a href="https://t.me/dmt_bio" class="button-style">Bio ( in Telegram, on rus) </a>
 
 .button-style {
   display: inline-block;
